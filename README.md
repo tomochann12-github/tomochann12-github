@@ -49,7 +49,7 @@ JavaEditionのマイクラやってます。
     I play Minecraft Java Edition.  
     I have some command skills and would like to try my hand at creating a plugin someday.
 
-    Thank you for taking the time to read my introduction ;)  
+    Thank you for taking the time to read my introduction XD  
 
   ```
 
