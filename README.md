@@ -1,20 +1,80 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=200&section=header&text=Hi👋 I'm tomochann12-github&fontSize=40&fontColor=eee&animation=fadeIn&fontAlignY=35">
+<!---
+  tags: ['README', 'Self-Introduction', 'AboutMe']
+  date: 04/07
+  author: "tomochann12-github"
+  title: 'プロフィール'
+  mdtype: 'GitHub'
+--->
 
+<img src="./img/header.png" width="100%" />
 
-<div align="center">
+---
 
- ![SVG](https://readme-typing-svg.herokuapp.com/?size=35&center=true&vCenter=true&width=1000&lines=HI👋+I'M+KISARAGI+2342.;IF(LOOK_AT_PROFILE)FOLLOW+ME😝;THNX:%29)
+<img src="https://github-readme-stats.vercel.app/api?username=tomochann12-github&count_private=true&show_icons=true" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomochann12-github" />
 
- <!--Rank-->
- <img width="59.0%" src="https://github-readme-stats.vercel.app/api?username=tomochann12-github&show_icons=true&hide_border=true&bg_color=0d1117&title_color=87cefa&icon_color=87cefa&text_color=fff">
- <img width="39.7%" src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=tomochann12-github&hide_border=true&hide=C,Assembly,Makefile,Arduino,Batchfile,CSS&layout=compact&card_width=275&card_width=400&bg_color=0d1117&title_color=87cefa&text_color=fff">
-  
- ![graph ](https://activity-graph.herokuapp.com/graph?color=87cefa&username=tomochann12-github&theme=react-dark&hide_border=true&area=true)
- ![trophy](https://github-profile-trophy.vercel.app/?username=tomochann12-github&theme=onedark&no-frame=true&row=1&column=5&margin-w=6&no-bg=true)
+---
 
+# 自己紹介
 
- 
-</div>
+高１の `tomochann12` です。  
+よろしくお願いします。  
 
+プログラミング言語は
+- C/C# ([ABC](https://atcoder.jp/)のA、B問題が解ける程度)
+- HTML / CSS / JavaScript
+- Java (言語仕様を簡単に理解しただけ)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=150&section=footer">
+ゲーム作ったりWebサービス(サイト)作れます。  
+
+JavaEditionのマイクラやってます。  
+コマンドがある程度でき、プラグインを作るのをいつか挑戦してみようと思っています。  
+<br /><details>
+
+  <summary><b>About Me on English</b></summary>
+
+  ```markdown
+
+    My name is `tomochann12`.  
+    I'm a freshman in high school.  
+    I'm Japanese.  
+
+    List of programming languages I can use:  
+    - C/C# (I can solve some of the A and b problems of [ABC](https://atcoder.jp/))
+    - HTML / CSS / JavaScript
+    - Java (just a simple understanding of the language specification)
+
+    I can make games and web services (websites).  
+
+    I play Minecraft Java Edition.  
+    I have some command skills and would like to try my hand at creating a plugin someday.
+
+    Thank you for taking the time to read my introduction ;)  
+
+  ```
+
+</details><br />
+
+## Accounts アカウント
+
+- Gmail:
+  tomoch123456?gmail!com
+  (`!`->`.`,`?`->`@`)
+- Twitter:
+  [@tomochann12](https://twitter.com/tomochann12)
+- Discord:
+  [@tomoya#4857](https://discord.com/users/801798242894741545)
+- Github:
+  [tomochann12-github](https://github.com/tomochann12-github)
+- My device
+  (geartics.com/tomochann12)
+
+## Other その他
+
+- Amazon (https://www.amazon.jp/hz/wishlist/ls/23ERH4O31PD6T?ref_=wl_share)
+- Website: [製作予定](未定)
+- Birthday: 10/5
+
+# 後日追加予定
+
+たぶん作品とかのリンクが貼られる
