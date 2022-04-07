@@ -66,12 +66,12 @@ JavaEditionのマイクラやってます。
   [@tomoya#4857](https://discord.com/users/801798242894741545)
 - Github:
   [tomochann12-github](https://github.com/tomochann12-github)
-- My device
-  (geartics.com/tomochann12)
+  
+- [My device](https://geartics.com/tomochann12)
 
 ## Other その他
 
-- Amazon (https://www.amazon.jp/hz/wishlist/ls/23ERH4O31PD6T?ref_=wl_share)
+- [Amazon](https://www.amazon.jp/hz/wishlist/ls/23ERH4O31PD6T?ref_=wl_share)
 - Website: [製作予定](未定)
 - Birthday: 10/5
 
