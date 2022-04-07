@@ -40,7 +40,7 @@ JavaEditionのマイクラやってます。
     I'm Japanese.  
 
     List of programming languages I can use:  
-    - C/C# (I can solve some of the A and b problems of [ABC](https://atcoder.jp/))
+    - C/C# (I can solve some of the A and b problems of [ABC](https://atcoder.jp/) )
     - HTML / CSS / JavaScript
     - Java (just a simple understanding of the language specification)
 
