@@ -71,7 +71,7 @@ JavaEditionのマイクラやってます。
 
 ## Other その他
 
-- [Amazon](https://www.amazon.jp/hz/wishlist/ls/23ERH4O31PD6T?ref_=wl_share)
+- [Amazon](https://www.amazon.jp/hz/wishlist/ls/ACR7BHT9JAKW?ref_=wl_share)
 - Website: [製作予定](https://tomochlab.com/)
 - Birthday: 10/5
 
